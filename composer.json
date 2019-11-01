@@ -17,8 +17,8 @@
   ],
   "repositories": [
     {
-      "type": "git",
-      "url": "https://github.com/dedermus/yii2-chat.git"
+      "type": "vcs",
+      "url": "https://github.com/dedermus/yii2-chat"
     }
   ],
   "minimum-stability": "dev",
