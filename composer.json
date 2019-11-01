@@ -1,0 +1,27 @@
+{
+  "name": "dedermus/yii2-chat",
+  "description": "AJAX веб чат с использованием PHP, MySQL и jQuery для Yii-2",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension"," chat"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandr Lomovtsev",
+      "email": "dedermus@gmail.com",
+      "homepage": "https://github.com/dedermus/yii2-chat",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "extra": {
+    "bootstrap": "dedermus\\chat\\Bootstrap"
+  },
+  "autoload": {
+    "psr-4": {
+      "dedermus\\chat\\": "src"
+    }
+  }
+}
