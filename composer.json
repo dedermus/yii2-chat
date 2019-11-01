@@ -17,8 +17,11 @@
     "yiisoft/yii2": "~2.0.0"
   },
   "extra": {
-    "bootstrap": "dedermus\\chat\\Bootstrap"
+    "branch-alias": {
+      "dev-master": "1.3.x-dev"
+    }
   },
+
   "autoload": {
     "psr-4": {
       "dedermus\\chat\\": "src"
