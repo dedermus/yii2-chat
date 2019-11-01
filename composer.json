@@ -14,17 +14,12 @@
       "email": "dedermus@gmail.com",
     }
   ],
-  "minimum-stability": "stable",
-  "require": {
-    "yiisoft/yii2": "~2.0.0"
-  },
   "repositories": [
     {
       "type": "vcs",
       "url": "https://github.com/dedermus/yii2-chat"
     }
   ],
-  "version": "dev-master",
   "autoload": {
     "psr-4": {
       "dedermus\\yii2-chat\\": "src"
