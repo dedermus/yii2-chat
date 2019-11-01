@@ -7,13 +7,11 @@
     "extension",
     "chat"
   ],
-  "homepage": "https://github.com/dedermus/yii2-chat",
   "license": "MIT",
   "authors": [
     {
       "name": "Aleksandr Lomovtsev",
       "email": "dedermus@gmail.com",
-      "homepage": "https://github.com/dedermus/yii2-chat"
     }
   ],
   "minimum-stability": "dev",
@@ -22,7 +20,7 @@
   },
   "repositories": [
     {
-      "type": "git",
+      "type": "vcs",
       "url": "https://github.com/dedermus/yii2-chat"
     }
   ],
