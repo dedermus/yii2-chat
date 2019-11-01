@@ -2,6 +2,7 @@
   "require": {
     "dedermus/yii2-chat": "dev-master"
   },
+  "minimum-stability": "stable",
   "repositories": [
     {
       "type": "vcs",
