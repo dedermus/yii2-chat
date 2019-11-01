@@ -5,8 +5,9 @@
   "keywords": [
     "yii2",
     "extension",
-    " chat"
+    "chat"
   ],
+  "homepage": "https://github.com/dedermus/yii2-chat",
   "license": "MIT",
   "authors": [
     {
@@ -22,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "dedermus\\chat\\": "src"
+      "dedermus\\yii2-chat\\": "src"
     }
   }
 }
