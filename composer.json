@@ -21,7 +21,8 @@
       "url": "https://github.com/dedermus/yii2-chat.git"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php": ">=5.4.0"
   },
