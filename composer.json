@@ -1,6 +1,6 @@
 {
   "require": {
-    "dedermus/yii2-chat": "master"
+    "dedermus/yii2-chat": "dev-master"
   },
   "repositories": [
     {
