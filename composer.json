@@ -13,8 +13,7 @@
     {
       "name": "Aleksandr Lomovtsev",
       "email": "dedermus@gmail.com",
-      "homepage": "https://github.com/dedermus/yii2-chat",
-      "role": "Developer"
+      "homepage": "https://github.com/dedermus/yii2-chat"
     }
   ],
   "minimum-stability": "dev",
@@ -27,6 +26,7 @@
       "url": "https://github.com/dedermus/yii2-chat"
     }
   ],
+  "version": "dev-master",
   "autoload": {
     "psr-4": {
       "dedermus\\yii2-chat\\": "src"
