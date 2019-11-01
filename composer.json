@@ -1,10 +1,10 @@
 {
   "name": "dedermus/yii2-chat",
-  "description": "Package for using widgets in Laravel-5",
-  "type": "library",
+  "description": "AJAX веб чат с использованием PHP, MySQL и jQuery для Yii-2",
+  "type": "yii2-extension",
   "keywords": [
-    "laravel",
-    "widgets"
+    "yii2",
+    "chat"
   ],
   "license": "MIT",
   "authors": [
@@ -21,8 +21,7 @@
       "url": "https://github.com/dedermus/yii2-chat"
     }
   ],
-  "minimum-stability": "dev",
-  "prefer-stable": true,
+  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0"
   },
