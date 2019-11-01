@@ -1,12 +1,27 @@
 {
-  "require": {
-    "dedermus/yii2-chat": "master@dev"
-  },
-  "minimum-stability": "stable",
-  "repositories": [
+  "name": "dedermus/yii2-chat",
+  "description": "Package for using widgets in Laravel-5",
+  "type": "library",
+  "keywords": [
+    "laravel",
+    "widgets"
+  ],
+  "license": "MIT",
+  "authors": [
     {
-      "type": "composer",
-      "url": "https://github.com/dedermus/yii2-chat"
+      "name": "YourName",
+      "email": "yourmail",
+      "homepage": "https://github.com/dedermus/yii2-chat",
+      "role": "Developer"
     }
-  ]
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "dedermus\\yii2-chat\\": "src"
+    }
+  }
 }
