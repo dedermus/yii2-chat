@@ -15,6 +15,12 @@
       "role": "Developer"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/dedermus/yii2-chat.git"
+    }
+  ],
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0"
