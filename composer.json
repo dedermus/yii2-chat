@@ -2,7 +2,11 @@
   "name": "dedermus/yii2-chat",
   "description": "AJAX веб чат с использованием PHP, MySQL и jQuery для Yii-2",
   "type": "yii2-extension",
-  "keywords": ["yii2","extension"," chat"],
+  "keywords": [
+    "yii2",
+    "extension",
+    " chat"
+  ],
   "license": "MIT",
   "authors": [
     {
@@ -16,12 +20,6 @@
   "require": {
     "yiisoft/yii2": "~2.0.0"
   },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.3.x-dev"
-    }
-  },
-
   "autoload": {
     "psr-4": {
       "dedermus\\chat\\": "src"
