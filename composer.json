@@ -27,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "dedermus\\yii2-chat\\": "src"
+      "dedermus\\yii2-chat\\": ""
     }
   }
 }
